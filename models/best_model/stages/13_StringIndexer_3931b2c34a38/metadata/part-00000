@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1793087805392,"sparkVersion":"3.5.2","uid":"StringIndexer_3931b2c34a38","paramMap":{"inputCol":"stalk_surface_below_ring","outputCol":"stalk_surface_below_ring_i"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_3931b2c34a38__output","stringOrderType":"frequencyDesc"}}
